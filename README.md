@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chandan and I'm a Full Stack Developer, from ....</h2>
+<h2 align="left">Hi 👋Eveyone I'm a Full Stack Developer, from ....</h2>
 
 
 <img align="right" height="200" src="https://lh3.googleusercontent.com/a/ACg8ocK_Nj4oOU4BhiIbcaXjg8aWQEVxBMe1NuvwFW0EIdNiZ-9AcDjJ=s288-c-no"  />
@@ -38,9 +38,11 @@
 </div>
 
 
-<h1>Contact</h1>
 
-**Contact:**
+
+
+
+<h1>Contacts</h1>
 
 * Email: code.us.cm@gmail.com
 * LinkedIn: Chandan Kumar Maurya: www.linkedin.com/in/ichanddan <invalid URL removed>
