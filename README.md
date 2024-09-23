@@ -37,3 +37,54 @@
 </div>
 
 ###
+
+
+**Contact:**
+
+* Email: code.us.cm@gmail.com
+* LinkedIn: Vikas Kumar Patel: www.linkedin.com/in/ichanddan <invalid URL removed>
+
+Top Skills:
+* Front-End Design: React, Tailwind CSS
+* JavaScript: JavaScript Fundamentals, Advanced JS techniques
+* Back-End: Node.js, Express.js
+* Database: MongoDB, MySQL , PostgreSQL, Mssql
+* Application Developement : React Navtive , Expo
+* Ui Library : shadcn , antd , nextui 
+  
+**About Me:**
+
+
+As a seasoned MERN Stack developer with 1 years of professional experience, I excel at crafting sophisticated and scalable web applications using React, Node.js, Express, and MongoDB. 
+
+I've successfully led multiple projects from conception to deployment, consistently delivering efficient, maintainable code that exceeds client expectations. My strong problem-solving skills and deep understanding of full-stack development allow me to tackle complex challenges with innovative approaches.
+
+
+
+**Experience:**
+
+**Daps Software**
+
+* **Associate Software Engineer** (October 2023 - Present)
+    * Developed and maintained software solutions using the MERN stack.
+    * Collaborated with cross-functional teams to deliver projects on time and budget.
+    * Redesigned the company's flagship product, resulting in a 30% increase in user engagement.
+* **Frontend Developer** (July 2023 - October 2023)
+    * Designed and implemented user-facing features using React.js and Tailwind CSS.
+    * Collaborated with backend developers to integrate frontend components.
+    * Optimized web applications for speed and scalability, resulting in a 10% improvement in page load times and a 30% increase in user engagement.
+
+**Education:**
+
+* **Manipal University Jaipur** (2023-2025)
+    * Master of Computer Applications (MCA) in Computer Software and Media Applications
+* **Mahatma Gandhi Kashi Vidyapeeth** (July 2018 - July 2021)
+    * Bachelor's degree in Computer Science
+ 
+* **Projects:**
+
+| Project Name | Description | Link (URL) 
+|---|---|---|
+| RealState |  is a project designed to manage real estate properties, clients, and transactions efficiently, integrating user management, property listings, and banking details for streamlined operations. |https://real-state-six-neon.vercel.app/ 
+| MovieUniverse | is a platform designed to explore and manage movies, providing users with detailed information, reviews, ratings, and personalized movie recommendations. | https://movieunivers.vercel.app/
+| Digital-amilahara |is a donation-based website designed to connect donors with charitable causes, fostering easy and secure contributions. | https://digital-amilahara.vercel.app/
