@@ -1,8 +1,11 @@
 <h2 align="left">Hi 👋! My name is Chandan and I'm a Full Stack Developer, from ....</h2>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://lh3.googleusercontent.com/a/ACg8ocK_Nj4oOU4BhiIbcaXjg8aWQEVxBMe1NuvwFW0EIdNiZ-9AcDjJ=s288-c-no"  />
+###
 
 ###
 
@@ -34,9 +37,13 @@
 
 
 ###
-
-<img src="https://raw.githubusercontent.com/ichanddan/ichanddan/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="72" height="60" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="72" height="60" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="60" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="60" alt="gmail logo"  />
+</div>
 ###
 
 
