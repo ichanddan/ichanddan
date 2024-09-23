@@ -42,7 +42,7 @@
 **Contact:**
 
 * Email: code.us.cm@gmail.com
-* LinkedIn: Vikas Kumar Patel: www.linkedin.com/in/ichanddan <invalid URL removed>
+* LinkedIn: Chandan Kumar Maurya: www.linkedin.com/in/ichanddan <invalid URL removed>
 
 Top Skills:
 * Front-End Design: React, Tailwind CSS
