@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://lh3.googleusercontent.com/a/ACg8ocK_Nj4oOU4BhiIbcaXjg8aWQEVxBMe1NuvwFW0EIdNiZ-9AcDjJ=s288-c-no"  />
+<img align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocK_Nj4oOU4BhiIbcaXjg8aWQEVxBMe1NuvwFW0EIdNiZ-9AcDjJ=s288-c-no"  />
 ###
 
 ###
