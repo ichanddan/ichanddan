@@ -57,7 +57,7 @@ Top Skills:
 **About Me:**
 
 
-As a seasoned MERN Stack developer with 1 years of professional experience, I excel at crafting sophisticated and scalable web applications using React, Node.js, Express, and MongoDB. 
+As a seasoned MERN Stack developer with 6 months of professional experience, I excel at crafting sophisticated and scalable web applications using React, Node.js, Express, and MongoDB. 
 
 I've successfully led multiple projects from conception to deployment, consistently delivering efficient, maintainable code that exceeds client expectations. My strong problem-solving skills and deep understanding of full-stack development allow me to tackle complex challenges with innovative approaches.
 
@@ -67,11 +67,11 @@ I've successfully led multiple projects from conception to deployment, consisten
 
 **Daps Software**
 
-* **Associate Software Engineer** (October 2023 - Present)
+* **Associate Software Engineer** (October 2024 - Present)
     * Developed and maintained software solutions using the MERN stack.
     * Collaborated with cross-functional teams to deliver projects on time and budget.
     * Redesigned the company's flagship product, resulting in a 30% increase in user engagement.
-* **Frontend Developer** (July 2023 - October 2023)
+* **Frontend Developer** (July 2024 - October 2024)
     * Designed and implemented user-facing features using React.js and Tailwind CSS.
     * Collaborated with backend developers to integrate frontend components.
     * Optimized web applications for speed and scalability, resulting in a 10% improvement in page load times and a 30% increase in user engagement.
