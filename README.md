@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋Eveyone I'm a Full Stack Developer, from ....</h2>
 
 
-<img align="right" style="border-radius:50%" height="180" src="https://lh3.googleusercontent.com/a/ACg8ocK_Nj4oOU4BhiIbcaXjg8aWQEVxBMe1NuvwFW0EIdNiZ-9AcDjJ=s288-c-no"  />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
