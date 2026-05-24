@@ -37,8 +37,7 @@
 - **Phone:** +91 9125102844
 - **LinkedIn:** [linkedin.com/in/ichanddan](https://www.linkedin.com/in/ichanddan)
 - **GitHub:** [github.com/ichanddan](https://github.com/ichanddan)
-- **Portfolio:** <!-- 👉 PASTE YOUR PORTFOLIO URL ON THE LINE BELOW, THEN DELETE THIS COMMENT 👉 -->
-  [PASTE_YOUR_PORTFOLIO_URL_HERE](PASTE_YOUR_PORTFOLIO_URL_HERE)
+- **Portfolio:** [in-chandan.vercel.app](https://in-chandan.vercel.app/)
 - **Location:** Bhadohi, Uttar Pradesh, India
 
 ## 👨‍💻 About Me
@@ -60,8 +59,10 @@ Currently at **Aiqwip Technology** in Bangalore, I work across the full stack �
 
 ## 💼 Experience
 
-### **Aiqwip Technology Pvt. Ltd.** — *Bangalore, India*
-**Software Engineer** *(December 2025 – Present)*
+### **Aiqwip Technology Pvt. Ltd.** — _Bangalore, India_
+
+**Software Engineer** _(December 2025 – Present)_
+
 - Design, develop, and maintain scalable full-stack web applications using **Next.js, TypeScript,** and **Python/FastAPI**, contributing to the company's core product roadmap.
 - Build secure RESTful APIs and backend services with **FastAPI**, integrated with **PostgreSQL** and **Redis** for high availability, data integrity, and optimal query performance.
 - Implement reusable, responsive UI components with **Tailwind CSS** and **shadcn/ui**, improving development velocity and maintaining a consistent design system.
@@ -69,19 +70,24 @@ Currently at **Aiqwip Technology** in Bangalore, I work across the full stack �
 
 ---
 
-### **Aasa Technology** — *Remote*
-**Junior Full Stack Developer** *(January 2025 – December 2025)*
+### **Aasa Technology** — _Remote_
+
+**Junior Full Stack Developer** _(January 2025 – December 2025)_
+
 - Designed and implemented secure, scalable RESTful APIs using **Node.js** and **Express.js**, enabling seamless frontend–backend communication across the platform.
 - Reduced page load times by **~40%** by optimizing rendering, implementing lazy loading, and refactoring critical React components.
 
 ---
 
-### **Daps Software** — *Remote*
-**Frontend Developer** *(May 2024 – January 2025)*
+### **Daps Software** — _Remote_
+
+**Frontend Developer** _(May 2024 – January 2025)_
+
 - Drove development and maintenance of production-grade, highly responsive UI components using modern **React.js** and JavaScript standards.
 - Integrated third-party REST APIs and auth services (**JWT, OAuth**) to expand product capabilities and shorten feature delivery cycles.
 
-**Frontend Developer Intern** *(February 2024 – May 2024)*
+**Frontend Developer Intern** _(February 2024 – May 2024)_
+
 - Translated Figma wireframes into pixel-perfect, production-grade interfaces using **HTML5, CSS3,** and **JavaScript**.
 - Built fully responsive, cross-browser UIs optimized for mobile, tablet, and desktop, reaching a **Lighthouse accessibility score of 90+**.
 - Collaborated closely with backend teams to integrate REST APIs, ensuring seamless end-to-end functionality and strict data integrity across features.
@@ -89,27 +95,32 @@ Currently at **Aiqwip Technology** in Bangalore, I work across the full stack �
 ## 🚀 Projects
 
 ### 🌟 Featured · Imeld AI — [imeld.ai](https://www.imeld.ai/)
-*Next.js · Python · FastAPI · PostgreSQL · Redis · WebSocket · Azure OpenAI · Google Gemini · Anam.ai*
 
-Enterprise AI platform integrating **Azure OpenAI, Google Gemini,** and **Anam.ai** with a real-time **WebSocket** backend and a **Python/FastAPI** service layer. Joined as Frontend Developer and transitioned to **full-stack ownership** — responsible for UI, backend APIs, and PostgreSQL data architecture.
+_Next.js · Python · FastAPI · PostgreSQL · Redis · WebSocket · Azure OpenAI · Google Gemini · Anam.ai_
+
+Enterprise AI platform integrating **Azure OpenAI, Google Gemini,** and **Anam.ai** with a real-time **WebSocket** backend and a **Python/FastAPI** service layer. Joined as Frontend Developer and transitioned to **full-stack ownership** — responsible for UI, backend APIs, and PostgreSQL data architecture. Platform has **passed VAPT** security testing and is currently undergoing **SOC 2** compliance work.
 
 ---
 
 ### eSportsPedia — [esportspedia.org](https://esportspedia.org)
-*TypeScript · Next.js · Tailwind CSS · shadcn/ui*
 
-Full-stack esports wiki platform covering Indian gaming — player profiles, team pages, tournaments, and news articles. **SEO-optimized** with **Next.js SSR/SSG** and **Server Actions** for backend logic, eliminating a separate API layer.
+_TypeScript · Next.js · Tailwind CSS · shadcn/ui_
+
+Full-stack esports wiki platform covering Indian gaming — player profiles, team pages, tournaments, and news articles. Backend logic runs entirely through **Next.js Server Actions**, removing the need for a separate REST API layer and keeping data flow tight between UI and database. **SEO-optimized** end-to-end with **SSR/SSG** for fast indexing.
 
 ## 🎓 Education
 
-**Master of Computer Applications (MCA)** — *Manipal University Jaipur (Distance Learning)* · 2023 – 2025 · **SGPA: 9.57**
+**Master of Computer Applications (MCA)** — _Manipal University Jaipur (Distance Learning)_ · 2023 – 2025 · **SGPA: 9.57**
+
 - Specialized in advanced software development, system design, and database management.
 - Completed full-stack development projects applying modern software engineering principles.
 
-**Bachelor of Computer Applications (BCA)** — *Mahatma Gandhi Kashi Vidyapith University* · 2018 – 2021 · **61%**
+**Bachelor of Computer Applications (BCA)** — _Mahatma Gandhi Kashi Vidyapith University_ · 2018 – 2021 · **61%**
+
 - Built a strong foundation in core computer science concepts, algorithms, and programming.
 - Gained hands-on experience with web development and relational databases.
 
-**O Level Certification** — *National Institute of Electronics & Information Technology (NIELIT)* · 2021 – 2023 · **Grade: C+**
+**O Level Certification** — _National Institute of Electronics & Information Technology (NIELIT)_ · 2021 – 2023 · **Grade: C+**
+
 - Completed government-certified IT program covering programming, networking, and web development.
 - Maintained consistent academic performance throughout the program.
