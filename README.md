@@ -1,17 +1,18 @@
-<h2 align="left">Hi 👋Eveyone I'm a Full Stack Developer, from ....</h2>
+<h2 align="left">Hi 👋 I'm Chandan Kumar Maurya</h2>
+<p align="left"><b>Software Engineer · Full Stack Developer</b> · 2+ years building scalable web & mobile apps with the MERN stack, TypeScript, Next.js, and React Native.</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
@@ -19,75 +20,96 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
+## 📇 Contacts
 
+- **Email:** code.us.cm@gmail.com
+- **Phone:** +91 9125102844
+- **LinkedIn:** [linkedin.com/in/ichanddan](https://www.linkedin.com/in/ichanddan)
+- **GitHub:** [github.com/ichanddan](https://github.com/ichanddan)
+- **Portfolio:** <!-- 👉 PASTE YOUR PORTFOLIO URL ON THE LINE BELOW, THEN DELETE THIS COMMENT 👉 -->
+  [PASTE_YOUR_PORTFOLIO_URL_HERE](PASTE_YOUR_PORTFOLIO_URL_HERE)
+- **Location:** Bhadohi, Uttar Pradesh, India
 
-
-
-
-<h1>Contacts</h1>
-
-* Email: code.us.cm@gmail.com
-* LinkedIn: Chandan Kumar Maurya: www.linkedin.com/in/ichanddan <invalid URL removed>
-
-Top Skills:
-* Front-End Design: React, Tailwind CSS
-* JavaScript: JavaScript Fundamentals, Advanced JS techniques
-* Back-End: Node.js, Express.js
-* Database: MongoDB, MySQL , PostgreSQL, Mssql
-* Application Developement : React Navtive , Expo
-* Ui Library : shadcn , antd , nextui 
-  
 ## 👨‍💻 About Me
 
-I am a **Software Engineer and Full Stack Developer** with hands-on experience across the complete web development lifecycle. I currently work at **Aiqwip** as a **Software Engineer**, where I focus on building scalable full-stack applications, contributing to system design, optimizing performance, and delivering high-quality features in collaboration with cross-functional teams.
+I'm a **Software Engineer · Full Stack Developer** with **2+ years of experience** building scalable web and mobile applications using the **MERN stack, TypeScript, Next.js,** and **React Native**. I focus on clean architecture, performant UIs, and collaborative agile delivery.
 
-Previously, I worked at **Aasa Technology** as a **Full Stack Developer**, where I developed end-to-end web applications using **React, Node.js, Express, and MongoDB**. My role involved designing and maintaining RESTful APIs, integrating frontend and backend systems, improving application security and scalability, and supporting deployment and production environments.
+Currently at **Aiqwip Technology** in Bangalore, I work across the full stack — building enterprise products with **Next.js, TypeScript,** and **Python/FastAPI**, backed by **PostgreSQL** and **Redis**. Before that, I progressed from frontend internship to junior full-stack roles, shipping production interfaces, REST APIs, and React Native apps for client teams.
 
-I began my professional journey as a **Frontend Developer Intern**, progressing to **Frontend Developer**, where I built responsive and accessible user interfaces using **React.js and Tailwind CSS**. During this phase, I focused heavily on performance optimization, improving page load times by **10%** and increasing user engagement by **30%**.
+## 🛠 Technical Skills
 
-With a strong foundation in frontend engineering and solid backend expertise, I enjoy building clean, maintainable, and scalable applications while continuously learning and adapting to new technologies.
-
-
+- **Languages:** JavaScript, Python
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Better Auth
+- **Backend:** Node.js, Express.js, FastAPI, Prisma ORM, Drizzle ORM, WebSocket, JWT Auth
+- **Database:** MongoDB, PostgreSQL, MySQL, Redis
+- **Mobile:** React Native, Expo
+- **AI & Cloud:** Azure OpenAI, Google Gemini, OpenAI
+- **UI Libraries:** shadcn/ui, Ant Design, NextUI
+- **DevOps & Tools:** Git / GitHub, Vercel, Postman, Figma
 
 ## 💼 Experience
 
-### **Aiqwip**
-**Software Engineer** *(15 December 2026 – Present)*  
-- Developing scalable full-stack applications using modern JavaScript frameworks.
-- Contributing to system design, performance optimization, and new feature development.
-- Collaborating closely with product, QA, and engineering teams to deliver high-quality solutions.
+### **Aiqwip Technology Pvt. Ltd.** — *Bangalore, India*
+**Software Engineer** *(December 2025 – Present)*
+- Design, develop, and maintain scalable full-stack web applications using **Next.js, TypeScript,** and **Python/FastAPI**, contributing to the company's core product roadmap.
+- Build secure RESTful APIs and backend services with **FastAPI**, integrated with **PostgreSQL** and **Redis** for high availability, data integrity, and optimal query performance.
+- Implement reusable, responsive UI components with **Tailwind CSS** and **shadcn/ui**, improving development velocity and maintaining a consistent design system.
+- Joined as Frontend Developer on **Imeld AI** for 5 months before transitioning to full-stack ownership; platform passed **VAPT** and is currently undergoing **SOC 2** certification.
 
 ---
 
-### **Aasa Technology**
-**Full Stack Developer** *(18 December 2024 – 11 December 2025)*  
-- Developed end-to-end web applications using **React, Node.js, Express, and MongoDB**.
-- Designed and maintained RESTful APIs and integrated frontend with backend services.
-- Improved application performance, security, and scalability.
-- Worked directly with clients to gather requirements and deliver customized solutions.
-- Played a key role in deployment, monitoring, and production support.
-
-**Frontend Developer** *(1 May 2024 – 12 December 2024)*  
-- Built responsive and accessible user interfaces using **React.js** and **Tailwind CSS**.
-- Integrated frontend components with backend APIs.
-- Optimized web performance, achieving a **10% improvement in load time** and **30% increase in user engagement**.
-
-- **Frontend Developer Intern** *(7 Feb 2024 – 1 May 2024)*  
-- Built responsive and accessible user interfaces using **React.js** and **Tailwind CSS**.
-- Integrated frontend components with backend APIs.
-- Optimized web performance, achieving a **10% improvement in load time** and **30% increase in user engagement**.
+### **Aasa Technology** — *Remote*
+**Junior Full Stack Developer** *(January 2025 – December 2025)*
+- Designed and implemented secure, scalable RESTful APIs using **Node.js** and **Express.js**, enabling seamless frontend–backend communication across the platform.
+- Reduced page load times by **~40%** by optimizing rendering, implementing lazy loading, and refactoring critical React components.
 
 ---
+
+### **Daps Software** — *Remote*
+**Frontend Developer** *(May 2024 – January 2025)*
+- Drove development and maintenance of production-grade, highly responsive UI components using modern **React.js** and JavaScript standards.
+- Integrated third-party REST APIs and auth services (**JWT, OAuth**) to expand product capabilities and shorten feature delivery cycles.
+
+**Frontend Developer Intern** *(February 2024 – May 2024)*
+- Translated Figma wireframes into pixel-perfect, production-grade interfaces using **HTML5, CSS3,** and **JavaScript**.
+- Built fully responsive, cross-browser UIs optimized for mobile, tablet, and desktop, reaching a **Lighthouse accessibility score of 90+**.
+- Collaborated closely with backend teams to integrate REST APIs, ensuring seamless end-to-end functionality and strict data integrity across features.
+
+## 🚀 Projects
+
+### 🌟 Featured · Imeld AI — [imeld.ai](https://www.imeld.ai/)
+*Next.js · Python · FastAPI · PostgreSQL · Redis · WebSocket · Azure OpenAI · Google Gemini · Anam.ai*
+
+Enterprise AI platform integrating **Azure OpenAI, Google Gemini,** and **Anam.ai** with a real-time **WebSocket** backend and a **Python/FastAPI** service layer. Joined as Frontend Developer and transitioned to **full-stack ownership** — responsible for UI, backend APIs, and PostgreSQL data architecture.
+
+---
+
+### eSportsPedia — [esportspedia.org](https://esportspedia.org)
+*TypeScript · Next.js · Tailwind CSS · shadcn/ui*
+
+Full-stack esports wiki platform covering Indian gaming — player profiles, team pages, tournaments, and news articles. **SEO-optimized** with **Next.js SSR/SSG** and **Server Actions** for backend logic, eliminating a separate API layer.
 
 ## 🎓 Education
 
-**Manipal University Jaipur** *(2023 – 2025)*  
-- **Master of Computer Applications (MCA)**
+**Master of Computer Applications (MCA)** — *Manipal University Jaipur (Distance Learning)* · 2023 – 2025 · **SGPA: 9.57**
+- Specialized in advanced software development, system design, and database management.
+- Completed full-stack development projects applying modern software engineering principles.
 
-**Mahatma Gandhi Kashi Vidyapeeth** *(2018 – 2021)*  
-- **Bachelor’s Degree in Computer Science**
+**Bachelor of Computer Applications (BCA)** — *Mahatma Gandhi Kashi Vidyapith University* · 2018 – 2021 · **61%**
+- Built a strong foundation in core computer science concepts, algorithms, and programming.
+- Gained hands-on experience with web development and relational databases.
 
----
+**O Level Certification** — *National Institute of Electronics & Information Technology (NIELIT)* · 2021 – 2023 · **Grade: C+**
+- Completed government-certified IT program covering programming, networking, and web development.
+- Maintained consistent academic performance throughout the program.
